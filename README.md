@@ -1,1 +1,1 @@
-# fundamentals-of-ML
+# Fundamentals-of-ML
